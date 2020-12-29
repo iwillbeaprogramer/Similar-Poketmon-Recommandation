@@ -1,5 +1,6 @@
 # Similar-Poketmon-Recommandation
 https://pokemon-like-me.herokuapp.com/
+(해당 웹 페이지 - 첫 실행시 몇초간 소요됨)
 
 Similar Poketmon Recommandation using CNN
 
